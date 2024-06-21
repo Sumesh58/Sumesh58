@@ -37,7 +37,7 @@ Like My Work?
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with JS, REACTJA, AWS, etc.
+- 🛠 &nbsp; I’m currently working with JS, REACTJS, AWS, etc.
 - 🚀 &nbsp; I’m currently exploring DEVOPS, JENKINS, KUBERNETS, etc.
 - 💬 &nbsp; Ask me anything [here](https://github.com/Sumesh58)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
