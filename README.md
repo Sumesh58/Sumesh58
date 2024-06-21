@@ -1,4 +1,4 @@
-## Hey there 👋, I'm [Pavan!](https://github.com/iampavangandhi/)
+## Hey there 👋, I'm [Sumesh Makhija!](https://github.com/Sumesh58/)
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
@@ -26,11 +26,11 @@ Like My Work?
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 🛠 &nbsp; I’m currently working with JS, REACTJA, AWS, etc.
+- 🚀 &nbsp; I’m currently exploring DEVOPS, JENKINS, KUBERNETS, etc.
+- 💬 &nbsp; Ask me anything [here](https://github.com/Sumesh58)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: pavangandhi100@gmail.com.
+- 📫 &nbsp; Reach me out: sumeshmakhija19@gmail.com.
 
 ### My Absolute Favorites:
 
