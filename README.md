@@ -1,7 +1,5 @@
 ## Hey there 👋, I'm [Sumesh Makhija!](https://github.com/Sumesh58/)
-<div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
-</div>
+
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
