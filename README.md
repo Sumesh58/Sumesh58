@@ -79,7 +79,7 @@ Like My Work?
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumesh58&show_icons=true&locale=en" alt="sumesh58" />
 </details>
 
 <details>
