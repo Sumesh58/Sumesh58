@@ -2,7 +2,7 @@
 
 
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)]()
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sumesh-makhija-b86545259)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sumesh_makhija?igsh=YW1rdmoxeHI0N2Jn)
 
@@ -78,8 +78,7 @@ Like My Work?
   	    <li><b>Browser: </b> Chrome & Safari</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
- 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
-	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
+            <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
 	</ul>
 </details>
 
